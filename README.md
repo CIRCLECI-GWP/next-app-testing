@@ -1,3 +1,28 @@
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/next-app-testing.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/next-app-testing)
+
+<p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
+
+## Details
+
+This repo is built following a tutorial published on CircleCI blog under the CircleCI Guest Writer Program.
+
+- Blog post: [Continuous integration for Next.js applications][blog]
+- Author's GitHub profile: [Fikayo Adepoju][author]
+
+### About CircleCI Guest Writer Program
+
+Join a team of freelance writers and write about your favorite technology topics for the CircleCI blog. Read more about the program [here][gwp-program].
+
+Reviewers: [Ron Powell][ron], [Stanley Ndagi][stan]
+
+[blog]: https://circleci.com/blog/next-testing
+[author]: https://github.com/coderonfleek
+[gwp-program]: https://circle.ci/3ahQxfu
+[ron]: https://github.com/ronpowelljr
+[stan]: https://github.com/NdagiStanley
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -8,17 +33,11 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 ## Learn More
 
@@ -31,6 +50,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
